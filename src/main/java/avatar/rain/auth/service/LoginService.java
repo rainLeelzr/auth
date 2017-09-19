@@ -9,7 +9,7 @@ import avatar.rain.auth.dao.UserDaoExt;
 import avatar.rain.auth.entity.User;
 import avatar.rain.base.entity.ErrorInfo;
 import avatar.rain.base.service.ErrorInfoServiceExt;
-import avatar.rain.base.util.result.Result;
+import avatar.rain.result.Result;
 import avatar.rain.base.service.ResultService;
 import org.springframework.stereotype.Service;
 

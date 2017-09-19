@@ -7,7 +7,7 @@ package avatar.rain.base.service;
 
 import avatar.rain.base.dao.ErrorInfoDao;
 import avatar.rain.base.entity.ErrorInfo;
-import avatar.rain.core.service.BaseService;
+import avatar.rain.common.BaseService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

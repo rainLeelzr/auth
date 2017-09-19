@@ -1,9 +1,9 @@
 package avatar.rain;
 
-import avatar.rain.core.dao.BaseDao;
+import avatar.rain.common.BaseDao;
+import avatar.rain.common.BaseEntity;
+import avatar.rain.common.BaseService;
 import avatar.rain.core.database.SqlCondition;
-import avatar.rain.core.entity.BaseEntity;
-import avatar.rain.core.service.BaseService;
 import avatar.rain.core.util.log.LogUtil;
 import avatar.rain.core.util.pk.PkGenerator;
 import com.alibaba.fastjson.JSON;

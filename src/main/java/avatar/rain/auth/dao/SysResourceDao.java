@@ -6,7 +6,7 @@
 package avatar.rain.auth.dao;
 
 import avatar.rain.auth.entity.SysResource;
-import avatar.rain.core.dao.BaseDao;
+import avatar.rain.common.BaseDao;
 
 public interface SysResourceDao extends BaseDao<SysResource> {
 

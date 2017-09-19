@@ -6,7 +6,7 @@
 package avatar.rain.base.dao;
 
 import avatar.rain.base.entity.ErrorInfo;
-import avatar.rain.core.dao.BaseDao;
+import avatar.rain.common.BaseDao;
 
 public interface ErrorInfoDao extends BaseDao<ErrorInfo> {
 

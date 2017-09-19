@@ -8,7 +8,7 @@ package avatar.rain.auth.controller;
 import avatar.rain.auth.dao.UserInfoDao;
 import avatar.rain.auth.entity.UserInfo;
 import avatar.rain.auth.service.UserInfoService;
-import avatar.rain.core.controller.BaseController;
+import avatar.rain.common.BaseController;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

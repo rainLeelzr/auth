@@ -6,8 +6,8 @@
 package avatar.rain.auth.service;
 
 import avatar.rain.auth.entity.SysResource;
+import avatar.rain.common.BaseEntity;
 import avatar.rain.core.database.SqlCondition;
-import avatar.rain.core.entity.BaseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

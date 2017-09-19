@@ -1,7 +1,7 @@
 package avatar.rain.base.service;
 
 import avatar.rain.base.entity.ErrorInfo;
-import avatar.rain.base.util.result.Result;
+import avatar.rain.result.Result;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.stereotype.Component;
 

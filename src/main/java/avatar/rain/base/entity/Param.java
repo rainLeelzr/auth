@@ -9,7 +9,7 @@
 
 package avatar.rain.base.entity;
 
-import avatar.rain.core.entity.BaseEntity;
+import avatar.rain.common.BaseEntity;
 
 public class Param extends BaseEntity {
 

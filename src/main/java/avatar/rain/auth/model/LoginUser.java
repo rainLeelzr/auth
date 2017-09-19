@@ -1,12 +1,9 @@
 package avatar.rain.auth.model;
 
-
-import avatar.rain.core.entity.BaseEntity;
-
 /**
  * 登录系统的用户
  */
-public class LoginUser extends BaseEntity {
+public class LoginUser {
 
     /**
      * 对应的 userId

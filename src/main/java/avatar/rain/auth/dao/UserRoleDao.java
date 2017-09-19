@@ -6,7 +6,7 @@
 package avatar.rain.auth.dao;
 
 import avatar.rain.auth.entity.UserRole;
-import avatar.rain.core.dao.BaseDao;
+import avatar.rain.common.BaseDao;
 
 public interface UserRoleDao extends BaseDao<UserRole> {
 

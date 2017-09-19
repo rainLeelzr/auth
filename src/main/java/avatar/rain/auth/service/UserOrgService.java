@@ -7,7 +7,7 @@ package avatar.rain.auth.service;
 
 import avatar.rain.auth.dao.UserOrgDao;
 import avatar.rain.auth.entity.UserOrg;
-import avatar.rain.core.service.BaseService;
+import avatar.rain.common.BaseService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

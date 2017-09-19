@@ -8,7 +8,7 @@ package avatar.rain.base.controller;
 import avatar.rain.base.dao.ErrorInfoDao;
 import avatar.rain.base.entity.ErrorInfo;
 import avatar.rain.base.service.ErrorInfoService;
-import avatar.rain.core.controller.BaseController;
+import avatar.rain.common.BaseController;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
